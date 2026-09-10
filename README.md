@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there 👋
+我是连向薇，一名计算机专业学生。
 
-<!--
-**aurogons/aurogons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- 🎓 专业：计算机相关专业
+- ✨ 兴趣：Web开发、AI图像生成、Python后端、计算机底层原理
+- 📷 爱好：摄影、宠物、户外旅行
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+### 已掌握
+- 编程语言：Python、C语言
+- AI相关：Hugging Face API调用、Flux图像生成模型部署
+- 工具：Git、VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 感兴趣方向
+大模型应用开发、AI绘图、Web全栈开发
+
+### 希望继续学习
+深度学习原理、前端框架、数据库、软件工程
+
+## 🎯 三年发展规划
+1. 夯实计算机基础（操作系统、计网、计组），完成课程项目，积累开源小作品，准备考研相关复习；
+2. 备战考研，同时持续做AI应用方向的项目，提升工程实践能力；
+3. 成功上岸，研究生阶段聚焦大模型应用开发方向，持续产出技术项目。
+
+## 📫 Contact
+- GitHub：https://github.com/aurogons
